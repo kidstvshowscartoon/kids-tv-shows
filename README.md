@@ -1,0 +1,1 @@
+<script type='text/javascript' src='//s3.spruto.org/embed/player.js'></script><script class='splayer'>var params ={"UserID":"bMXBNFXZfUqLoJjZLGoVRw2","AlbumID":34066,"Width":320,"Height":240,"VideoID":400419};player.embed(params);</script>
